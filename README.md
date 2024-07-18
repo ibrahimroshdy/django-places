@@ -4,6 +4,7 @@
 
 A Django app for store places with autocomplete function and a related map to the selected place.
 
+
 ## Quickstart
 ----------
 
